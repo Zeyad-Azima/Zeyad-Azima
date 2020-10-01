@@ -25,7 +25,13 @@ Mobile Apps
 IoT
 Wireless
 ```
-- Graphic Design ( Logo, Poster, Banner, Photo Editing )
+- Graphic Design 
+```
+Logo Design
+Poster Design 
+Banner Design
+Photo Editing
+```
 - Computer Maintenance 
 ```
 Software Repairing 
