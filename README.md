@@ -16,12 +16,34 @@ strive to learn more and obtain more knowledge.
 - ⚡ Fun fact: ...-->
 
 # ⚡ Technologies:
+
+- Penetration Testing
 ```
-- Penetration Testing ( Network/System, Web, Mobile Apps, IoT, Wireless )
+Network/System
+Web
+Mobile Apps
+IoT
+Wireless
+```
 - Graphic Design ( Logo, Poster, Banner, Photo Editing )
-- Computer Maintenance ( Software Repairing & Hardware Fixing )
-- Programming ( Python, Java, Php, MySQL, C/C++, C#, Ruby, Perl, Go-lang)
+- Computer Maintenance 
 ```
+Software Repairing 
+Hardware Fixing
+```
+- Programming 
+```
+Python
+Java
+Php
+MySQL
+C/C++
+C#
+Ruby
+Perl
+Go-lang
+```
+
 # CVE:
 1-CVE-2020-23576
 
