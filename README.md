@@ -7,8 +7,6 @@ programming. I am fond of cyber security and IT fields. And always
 strive to learn more and obtain more knowledge. 
 ```
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...(Private Framework & Study for Certificates)
 - 🌱 I’m currently learning ...(Assembly, Game development & Reverse Engineering)
 - 👯 I’m collaborating on ...(Private)
@@ -16,8 +14,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Here](https://www.facebook.com/elkingzeyad.azeem/)
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
--->
 
+# ⚡ Technologies:
+```
+- Penetration Testing ( Network/System, Web, Mobile Apps, IoT, Wireless )
+- Graphic Design ( Logo, Poster, Banner, Photo Editing )
+- Computer Maintenance ( Software Repairing & Hardware Fixing )
+- Programming ( Python, Java, Php, MySQL, C/C++, C#, Ruby, Perl, Go-lang)
+```
 # CVE:
 1-CVE-2020-23576
 
