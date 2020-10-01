@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...(Assembly, Game development & Reverse Engineering)
 - 👯 I’m collaborating on ...(Private)
 - 💬 Ask me about ...(anything, I am happy to help)
-- 📫 How to reach me: ...[Here](# Contact:)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ...[Here](https://www.facebook.com/elkingzeyad.azeem/)
+<!--- 😄 Pronouns: ...
+- ⚡ Fun fact: ...-->
 -->
 
-## CVE:
+# CVE:
 1-CVE-2020-23576
 
 2-CVE-2020-6878
