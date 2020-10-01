@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...(Private Framework & Study for Certificates)
 - 🌱 I’m currently learning ...(Assembly, Game development & Reverse Engineering)
-- 👯 I’m looking to collaborate on ...(Private)
+- 👯 I’m collaborating on ...(Private)
 - 💬 Ask me about ...(anything, I am happy to help)
 - 📫 How to reach me: ...[Here](# Contact:)
 - 😄 Pronouns: ...
