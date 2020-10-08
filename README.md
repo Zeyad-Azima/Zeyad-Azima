@@ -15,41 +15,6 @@ strive to learn more and obtain more knowledge.
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-# ⚡ Technologies:
-
-- Penetration Testing
-```
-Network/System
-Web
-Mobile Apps
-IoT
-Wireless
-```
-- Graphic Design 
-```
-Logo Design
-Poster Design 
-Banner Design
-Photo Editing
-```
-- Computer Maintenance 
-```
-Software Repairing 
-Hardware Fixing
-```
-- Programming 
-```
-Python
-Java
-Php
-MySQL
-C/C++
-C#
-Ruby
-Perl
-Go-lang
-```
-
 # CVE:
 1-CVE-2020-23576
 
@@ -57,5 +22,3 @@ Go-lang
 
 <!--
 **Zeyad-Azima/Zeyad-Azima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Contact:
