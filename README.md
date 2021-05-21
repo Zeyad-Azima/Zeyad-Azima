@@ -23,5 +23,8 @@ strive to learn more and obtain more knowledge.
 
 2-CVE-2020-6878
 
+3-CVE-2021-21729
+
+4-CVE-2021-21730
 <!--
 **Zeyad-Azima/Zeyad-Azima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
